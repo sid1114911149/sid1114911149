@@ -8,27 +8,36 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="80" alt="50 Days Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="80" alt="50 Days Badge"/><br/>
       <b>50 Days Badge</b>
     </td>
     <td align="center">
-      <img src="https://leetcode.com/static/images/badges/dcc-2025-7.png" width="80" alt="July 2025 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80" alt="100 Days Consistency Badge"/><br/>
+      <b>100 Days Consistency</b>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" width="80" alt="July 2025 Challenge Badge"/><br/>
       <b>July 2025 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" width="80" alt="Top Interview 150 Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" width="80" alt="August 2025 Challenge Badge"/><br/>
+      <b>August 2025 Challenge</b>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" width="80" alt="Top Interview 150 Badge"/><br/>
       <b>Top Interview 150</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" width="80" alt="Top 100 Liked Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="80" alt="Top 100 Liked Badge"/><br/>
       <b>Top 100 Liked</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" width="80" alt="LeetCode 75 Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="80" alt="LeetCode 75 Badge"/><br/>
       <b>LeetCode 75</b>
     </td>
   </tr>
 </table>
+
 
 
 <p align="left">
