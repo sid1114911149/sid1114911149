@@ -62,7 +62,7 @@
 
 - 📫 Reach me at **siddardhapasham@gmail.com**
 
-- 📄 [View My Resume](https://drive.google.com/file/d/171DnyFqOEYiDegobjrf2Wl3M_ybey7Zw/view?usp=drivesdk)
+- 📄 [View My Resume](https://drive.google.com/file/d/1K2u7RnJ02-iWBYkq4xTyBHWIecvMSJ3O/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
