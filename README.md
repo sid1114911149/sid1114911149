@@ -24,6 +24,10 @@
       <b>August 2025 Challenge</b>
     </td>
     <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/202509.gif" width="80" alt="September 2025 Challenge Badge"/><br/>
+      <b>September 2025 Challenge</b>
+    </td>
+    <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" width="80" alt="Top Interview 150 Badge"/><br/>
       <b>Top Interview 150</b>
     </td>
