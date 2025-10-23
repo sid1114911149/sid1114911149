@@ -19,6 +19,10 @@
       <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="80" alt="LeetCode 75 Badge"/><br/>
       <b>LeetCode 75</b>
     </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="80" alt="100 Days Consistency Badge"/><br/>
+      <b>SQL 50</b>
+    </td>
      <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80" alt="100 Days Consistency Badge"/><br/>
       <b>100 Days Consistency</b>
