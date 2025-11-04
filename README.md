@@ -50,14 +50,6 @@
   </tr>
 </table>
 
-
-## 💚 GeeksforGeeks Heatmap
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/siddardhbn1k/">
-    <img src="https://raw.githubusercontent.com/sid1114911149/GeeksForGeeks-Heatmap/output/github-contribution-grid-snake.svg" alt="GeeksforGeeks Heatmap" />
-  </a>
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sid1114911149&label=Profile%20views&color=0e75b6&style=flat" alt="sid1114911149" />
 </p>
