@@ -4,6 +4,14 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/siddardhareddy?ext=heatmap" alt="LeetCode Heatmap" />
 </p>
+
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/siddardhbn1k" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks Profile Badge" />
+  </a>
+</p>
+
+
 ## 🏅 LeetCode Badges
 <table>
   <tr>
@@ -20,10 +28,10 @@
       <b>LeetCode 75</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="80" alt="100 Days Consistency Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="80" alt="SQL 50 Badge"/><br/>
       <b>SQL 50</b>
     </td>
-     <td align="center">
+    <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80" alt="100 Days Consistency Badge"/><br/>
       <b>100 Days Consistency</b>
     </td>
@@ -44,11 +52,12 @@
       <b>September 2025 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="80" alt="September 2025 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="80" alt="October 2025 Challenge Badge"/><br/>
       <b>October 2025 Challenge</b>
     </td>
   </tr>
 </table>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sid1114911149&label=Profile%20views&color=0e75b6&style=flat" alt="sid1114911149" />
