@@ -55,6 +55,10 @@
       <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="80" alt="October 2025 Challenge Badge"/><br/>
       <b>October 2025 Challenge</b>
     </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" width="80" alt="November 2025 Challenge Badge"/><br/>
+      <b>Novomber 2025 Challenge</b>
+    </td>
   </tr>
 </table>
 
