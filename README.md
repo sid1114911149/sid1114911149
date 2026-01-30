@@ -71,7 +71,7 @@
   <img src="https://komarev.com/ghpvc/?username=sid1114911149&label=Profile%20views&color=0e75b6&style=flat" alt="sid1114911149" />
 </p>
 
-- 🌱 I’m currently learning **DEVOPS**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
