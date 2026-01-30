@@ -71,7 +71,7 @@
   <img src="https://komarev.com/ghpvc/?username=sid1114911149&label=Profile%20views&color=0e75b6&style=flat" alt="sid1114911149" />
 </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
@@ -79,11 +79,11 @@
 
 - 👨‍💻 All of my projects are available at [WEB_DEVELOPMENT_PROJECTS](https://github.com/sid1114911149/WEB_DEVELOPMENT_PROJECTS)
 
-- 💬 Ask me about **HTML CSS JS**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 Reach me at **siddardhapasham@gmail.com**
 
-- 📄 [View My Resume](https://drive.google.com/file/d/1K2u7RnJ02-iWBYkq4xTyBHWIecvMSJ3O/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/11c3IMyDC3XCn72ea1evzIk5ZUuZBJ8aE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
