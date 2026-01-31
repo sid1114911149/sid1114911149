@@ -31,13 +31,13 @@
       <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="80" alt="SQL 50 Badge"/><br/>
       <b>SQL 50</b>
     </td>
+     <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="80" alt="50 Days Badge"/><br/>
+      <b>50 Days Consistency</b>
+    </td>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80" alt="100 Days Consistency Badge"/><br/>
       <b>100 Days Consistency</b>
-    </td>
-    <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="80" alt="50 Days Badge"/><br/>
-      <b>50 Days Badge</b>
     </td>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" width="80" alt="July 2025 Challenge Badge"/><br/>
@@ -62,6 +62,10 @@
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" width="80" alt="December 2025 Challenge Badge"/><br/>
       <b>December 2025 Challenge</b>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="80" alt="January 2026 Challenge Badge"/><br/>
+      <b>January 2026 Challenge</b>
     </td>
   </tr>
 </table>
