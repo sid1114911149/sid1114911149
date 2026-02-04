@@ -81,7 +81,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [WEB_DEVELOPMENT_PROJECTS](https://github.com/sid1114911149/WEB_DEVELOPMENT_PROJECTS)
+- 👨‍💻 All of my projects are available at [WEB_DEVELOPMENT_PROJECTS](https://github.com/sid1114911149/WEBD_FRONTEND_PROJECTS)
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
