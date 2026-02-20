@@ -67,6 +67,10 @@
       <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="80" alt="January 2026 Challenge Badge"/><br/>
       <b>January 2026 Challenge</b>
     </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80" alt="50 days consistency 2026 Badge"/><br/>
+      <b>50 days consistency 2026</b>
+    </td>
   </tr>
 </table>
 
