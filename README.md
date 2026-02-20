@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PASHAM SIDDARDHA REDDY</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FULL STACK developer from India</h3>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/siddardhareddy?ext=heatmap" alt="LeetCode Heatmap" />
