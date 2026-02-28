@@ -33,11 +33,15 @@
     </td>
      <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="80" alt="50 Days Badge"/><br/>
-      <b>50 Days Consistency</b>
-    </td>
+      <b>50 Days Consistency 2025</b>
+     </td>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80" alt="100 Days Consistency Badge"/><br/>
-      <b>100 Days Consistency</b>
+      <b>100 Days Consistency 2025</b>
+    </td>
+     <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80" alt="50 days consistency 2026 Badge"/><br/>
+      <b>50 days consistency 2026</b>
     </td>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" width="80" alt="July 2025 Challenge Badge"/><br/>
@@ -67,9 +71,9 @@
       <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="80" alt="January 2026 Challenge Badge"/><br/>
       <b>January 2026 Challenge</b>
     </td>
-    <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80" alt="50 days consistency 2026 Badge"/><br/>
-      <b>50 days consistency 2026</b>
+     <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2.gif" width="80" alt="February 2026 Challenge Badge"/><br/>
+      <b>February 2026 Challenge</b>
     </td>
   </tr>
 </table>
