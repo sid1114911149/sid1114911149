@@ -10,7 +10,11 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks Profile Badge" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://takeuforward.org/profile/SiddardhaReddy" target="_blank">
+    <img src="https://img.shields.io/badge/Striver%20Sheet-blue?style=for-the-badge&logo=leetcode" alt="Strivers Profile Badge" />
+  </a>
+</p>
 
 ## 🏅 LeetCode Badges
 <table>
