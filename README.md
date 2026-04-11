@@ -43,9 +43,13 @@
       <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80" alt="100 Days Consistency Badge"/><br/>
       <b>100 Days Consistency 2025</b>
     </td>
-     <td align="center">
+    <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80" alt="50 days consistency 2026 Badge"/><br/>
       <b>50 days consistency 2026</b>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="80" alt="100 days consistency 2026 Badge"/><br/>
+      <b>100 days consistency 2026</b>
     </td>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" width="80" alt="July 2025 Challenge Badge"/><br/>
