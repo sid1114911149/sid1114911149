@@ -52,6 +52,10 @@
       <b>100 days consistency 2026</b>
     </td>
     <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="80" alt="365 Consistent Coded days"/><br/>
+      <b>365 Consistent days</b>
+    </td>
+    <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" width="80" alt="July 2025 Challenge Badge"/><br/>
       <b>July 2025 Challenge</b>
     </td>
