@@ -176,3 +176,277 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid1114911149&" alt="GitHub Streak" />
 </p>
+
+# 🚀 My Deployed Projects
+
+A collection of my full-stack web applications built using React.js, Node.js, Express.js, MongoDB, Firebase, and modern web technologies.
+
+---
+
+## 👨‍💻 Developer
+
+**Siddardha Reddy Pasham**
+
+- GitHub: https://github.com/sid1114911149
+- LinkedIn: Add Your LinkedIn Profile URL
+- Portfolio: Add Your Portfolio Website URL
+
+---
+
+## 📌 Project Directory
+
+| Project | Live Demo | Source Code |
+|----------|-----------|------------|
+| ChatApp | https://chat-app-orpin-chi-61.vercel.app/ | https://github.com/sid1114911149/ChatApp |
+| Job Portal | https://job-portal-frontend-dthb.vercel.app/ | Frontend + Backend Repositories |
+| Learning Management System | https://lms-client-pearl-alpha.vercel.app/ | Frontend + Backend Repositories |
+| Swiggy Clone | https://swiggy-clone-react-dashboard-p657-i1t97q2v2.vercel.app/ | Multiple Repositories |
+
+---
+
+## 🛠️ Core Skills Demonstrated
+
+- Full Stack Web Development
+- REST API Development
+- Authentication & Authorization
+- State Management
+- Database Design
+- Real-Time Communication
+- Responsive UI Development
+- Deployment & DevOps Basics
+
+---
+
+# 📱 ChatApp
+
+A real-time chat application that enables users to communicate instantly with a modern and responsive user interface.
+
+### 🔹 Features
+
+- User Authentication
+- Real-Time Messaging
+- Online User Status
+- Responsive Design
+- Firebase Integration
+
+### 🛠️ Technologies Used
+
+- React.js
+- Vite
+- Firebase Authentication
+- Cloud Firestore
+- CSS
+
+### 🌐 Live Links
+
+**Frontend:**  
+https://chat-app-orpin-chi-61.vercel.app/
+
+### 📂 Source Code
+
+- https://github.com/sid1114911149/ChatApp
+
+---
+
+# 💼 Job Portal
+
+A job portal platform where recruiters can post jobs and job seekers can search and apply for opportunities.
+
+### 🔹 Features
+
+- User Authentication
+- Job Listings
+- Job Applications
+- Search and Filter Jobs
+- Recruiter Dashboard
+
+### 🛠️ Technologies Used
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+### 🌐 Live Links
+
+**Frontend:**  
+https://job-portal-frontend-dthb.vercel.app/
+
+**Backend:**  
+https://job-protal-backend-vh4d.onrender.com
+
+### 📂 Source Code
+
+**Frontend Repository:**  
+https://github.com/sid1114911149/JOB_PORTAL_FRONTEND
+
+**Backend Repository:**  
+https://github.com/sid1114911149/JOB_PROTAL_BACKEND
+
+---
+
+# 🎓 Learning Management System (LMS)
+
+An online learning platform that allows students to access courses and instructors to manage educational content.
+
+### 🔹 Features
+
+- User Authentication
+- Course Management
+- Video Lectures
+- Student Enrollment
+- Progress Tracking
+
+### 🛠️ Technologies Used
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+### 🌐 Live Links
+
+**Frontend:**  
+https://lms-client-pearl-alpha.vercel.app/
+
+**Backend:**  
+https://lms-server-4rts.onrender.com
+
+### 📂 Source Code
+
+**Frontend Repository:**  
+https://github.com/sid1114911149/LMS_Client
+
+**Backend Repository:**  
+https://github.com/sid1114911149/LMS_Server
+
+---
+
+# 🍔 Swiggy Clone
+
+A food delivery application inspired by Swiggy that allows users to browse restaurants and order food online.
+
+### 🔹 Features
+
+- Restaurant Listings
+- Food Menu Display
+- Cart Management
+- Order Placement
+- Responsive UI
+- Admin Dashboard
+
+### 🛠️ Technologies Used
+
+- React.js
+- Redux Toolkit
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+
+### 🌐 Live Links
+
+**Frontend:**  
+https://swiggy-clone-react-dashboard-p657-i1t97q2v2.vercel.app/
+
+**Backend:**  
+https://swiggy-clone-backend-2-qrqd.onrender.com
+
+### 📂 Source Code
+
+**Home Page Repository:**  
+https://github.com/sid1114911149/Swiggy_Clone_Home_Page
+
+**User Panel Repository:**  
+https://github.com/sid1114911149/Swiggy_Clone_React_User
+
+**Admin Dashboard Repository:**  
+https://github.com/sid1114911149/Swiggy_Clone_React_Dashboard
+
+**Backend Repository:**  
+https://github.com/sid1114911149/Swiggy_Clone_Backend
+
+---
+
+# 📊 Overall Technology Stack
+
+## Frontend
+
+- React.js
+- Vite
+- Redux Toolkit
+- Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+## Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+## Databases
+
+- MongoDB
+- Firebase Firestore
+
+## Authentication
+
+- JWT Authentication
+- Firebase Authentication
+
+## Deployment
+
+- Vercel
+- Render
+
+## Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## ⭐ Highlights
+
+- Built and deployed multiple production-ready full-stack applications.
+- Implemented secure authentication and authorization systems.
+- Developed scalable REST APIs and database-driven applications.
+- Worked with real-time communication using Firebase.
+- Designed responsive and user-friendly interfaces.
+- Deployed applications using modern cloud platforms such as Vercel and Render.
+
+---
+
+## 📈 Future Enhancements
+
+- Microservices Architecture
+- Docker Containerization
+- CI/CD Pipelines
+- Advanced Caching Strategies
+- Cloud Deployment on AWS
+
+---
+
+## 🤝 Connect With Me
+
+If you find these projects interesting or would like to collaborate, feel free to connect with me.
+
+- GitHub: https://github.com/sid1114911149
+- LinkedIn: Add Your LinkedIn Profile URL
+- Portfolio: Add Your Portfolio Website URL
+
+---
+
+## ⭐ Thank You
+
+Thank you for visiting my project showcase repository.
+
+If you like these projects, consider giving them a ⭐ on GitHub.
+
+🚀 Happy Coding!
