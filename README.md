@@ -197,6 +197,7 @@ A collection of my full-stack web applications built using React.js, Node.js, Ex
 
 | Project | Live Demo | Source Code |
 |----------|-----------|------------|
+| ShopNest (E-Commerce Platform) | https://shopnest-qiiw.onrender.com/ | https://github.com/sid1114911149/shopnest-ecom-MERN.git |
 | ChatApp | https://chat-app-orpin-chi-61.vercel.app/ | https://github.com/sid1114911149/ChatApp |
 | Job Portal | https://job-portal-frontend-dthb.vercel.app/ | Frontend + Backend Repositories |
 | Learning Management System | https://lms-client-pearl-alpha.vercel.app/ | Frontend + Backend Repositories |
@@ -209,11 +210,52 @@ A collection of my full-stack web applications built using React.js, Node.js, Ex
 - Full Stack Web Development
 - REST API Development
 - Authentication & Authorization
+- Firebase Authentication
+- Payment Gateway Integration (Razorpay)
 - State Management
 - Database Design
 - Real-Time Communication
 - Responsive UI Development
 - Deployment & DevOps Basics
+
+---
+
+# 🛒 ShopNest – E-Commerce Platform
+
+A full-featured e-commerce platform built using the MERN Stack that enables users to browse products, manage carts, place secure orders, and complete online payments through Razorpay.
+
+🔹 Features
+- User Authentication using Firebase Authentication
+- Product Browsing and Search
+- Product Categories and Filtering
+- Shopping Cart Management
+- Secure Razorpay Payment Gateway Integration
+- Order Placement and Tracking
+- User Profile Management
+- Responsive UI for Mobile and Desktop
+- Admin Product Management
+- Protected Routes and Secure Access
+  
+### 🛠️ Technologies Used
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Firebase Authentication
+- Razorpay Payment Gateway
+- Redux Toolkit
+- REST APIs
+- JWT Authentication
+  
+🌐 Live Links
+
+Live Demo:
+https://shopnest-qiiw.onrender.com/
+
+📂 Source Code
+
+Repository:
+https://github.com/sid1114911149/shopnest-ecom-MERN.git
 
 ---
 
@@ -224,23 +266,26 @@ A real-time chat application that enables users to communicate instantly with a 
 ### 🔹 Features
 
 - User Authentication
-- Real-Time Messaging
+- Real-Time Messaging using Socket.IO
+- One-to-One Chat
 - Online User Status
+- Instant Message Delivery
 - Responsive Design
 - Firebase Integration
-
+- 
 ### 🛠️ Technologies Used
-
 - React.js
-- Vite
+- Node.js
+- Express.js
+- Socket.IO
 - Firebase Authentication
-- Cloud Firestore
+- MongoDB
 - CSS
 
 ### 🌐 Live Links
 
 **Frontend:**  
-https://chat-app-orpin-chi-61.vercel.app/
+- https://quickchat.greatstack.in/login
 
 ### 📂 Source Code
 
@@ -415,10 +460,12 @@ https://github.com/sid1114911149/Swiggy_Clone_Backend
 ## ⭐ Highlights
 
 - Built and deployed multiple production-ready full-stack applications.
+- Developed ShopNest, a complete MERN-based E-Commerce platform with Firebase Authentication and Razorpay payment integration.
 - Implemented secure authentication and authorization systems.
 - Developed scalable REST APIs and database-driven applications.
 - Worked with real-time communication using Firebase.
 - Designed responsive and user-friendly interfaces.
+- Integrated third-party services such as Firebase and Razorpay.
 - Deployed applications using modern cloud platforms such as Vercel and Render.
 
 ---
