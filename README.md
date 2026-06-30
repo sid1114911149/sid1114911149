@@ -99,6 +99,10 @@
       <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" width="80" alt="May 2026 Challenge Badge"/><br/>
       <b>May 2026 Challenge</b>
     </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="80" alt="June 2026 Challenge Badge"/><br/>
+      <b>June 2026 Challenge</b>
+    </td>
   </tr>
 </table>
 
