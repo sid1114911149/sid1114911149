@@ -44,6 +44,10 @@
       <b>100 Days Consistency 2025</b>
     </td>
     <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="80" alt="200 days consistency 2025 Badge"/><br/>
+      <b>200 days consistency 2025</b>
+    </td>
+    <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80" alt="50 days consistency 2026 Badge"/><br/>
       <b>50 days consistency 2026</b>
     </td>
