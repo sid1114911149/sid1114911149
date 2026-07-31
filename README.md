@@ -111,6 +111,10 @@
       <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="80" alt="June 2026 Challenge Badge"/><br/>
       <b>June 2026 Challenge</b>
     </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/7.gif" width="80" alt="July 2026 Challenge Badge"/><br/>
+      <b>July 2026 Challenge</b>
+    </td>
   </tr>
 </table>
 
