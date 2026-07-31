@@ -18,101 +18,110 @@
 
 ## 🏅 LeetCode Badges
 <table>
+  <!-- Row 1 -->
   <tr>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" width="80" alt="Top Interview 150 Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" width="80"/><br/>
       <b>Top Interview 150</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="80" alt="Top 100 Liked Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="80"/><br/>
       <b>Top 100 Liked</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="80" alt="LeetCode 75 Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="80"/><br/>
       <b>LeetCode 75</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="80" alt="SQL 50 Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="80"/><br/>
       <b>SQL 50</b>
     </td>
-     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="80" alt="50 Days Badge"/><br/>
-      <b>50 Days Consistency 2025</b>
-     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80" alt="100 Days Consistency Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="80"/><br/>
+      <b>50 Days Consistency 2025</b>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80"/><br/>
       <b>100 Days Consistency 2025</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="80" alt="200 days consistency 2025 Badge"/><br/>
-      <b>200 days consistency 2025</b>
+      <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="80"/><br/>
+      <b>200 Days Consistency 2025</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80" alt="50 days consistency 2026 Badge"/><br/>
-      <b>50 days consistency 2026</b>
+      <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="80"/><br/>
+      <b>365 Consistent Days</b>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80"/><br/>
+      <b>50 Days Consistency 2026</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="80" alt="100 days consistency 2026 Badge"/><br/>
-      <b>100 days consistency 2026</b>
+      <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="80"/><br/>
+      <b>100 Days Consistency 2026</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="80" alt="200 days consistency 2026 Badge"/><br/>
-      <b>200 days consistency 2026</b>
+      <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="80"/><br/>
+      <b>200 Days Consistency 2026</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="80" alt="365 Consistent Coded days"/><br/>
-      <b>365 Consistent days</b>
-    </td>
-    <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" width="80" alt="July 2025 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" width="80"/><br/>
       <b>July 2025 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" width="80" alt="August 2025 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" width="80"/><br/>
       <b>August 2025 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/202509.gif" width="80" alt="September 2025 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/202509.gif" width="80"/><br/>
       <b>September 2025 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="80" alt="October 2025 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="80"/><br/>
       <b>October 2025 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" width="80" alt="November 2025 Challenge Badge"/><br/>
-      <b>Novomber 2025 Challenge</b>
+      <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" width="80"/><br/>
+      <b>November 2025 Challenge</b>
     </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" width="80" alt="December 2025 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" width="80"/><br/>
       <b>December 2025 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="80" alt="January 2026 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="80"/><br/>
       <b>January 2026 Challenge</b>
     </td>
-     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2.gif" width="80" alt="February 2026 Challenge Badge"/><br/>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2.gif" width="80"/><br/>
       <b>February 2026 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="80" alt="March 2026 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="80"/><br/>
       <b>March 2026 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" width="80" alt="April 2026 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" width="80"/><br/>
       <b>April 2026 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" width="80" alt="May 2026 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" width="80"/><br/>
       <b>May 2026 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="80" alt="June 2026 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="80"/><br/>
       <b>June 2026 Challenge</b>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/7.gif" width="80" alt="July 2026 Challenge Badge"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/7.gif" width="80"/><br/>
       <b>July 2026 Challenge</b>
     </td>
   </tr>
