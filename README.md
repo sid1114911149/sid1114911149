@@ -17,6 +17,7 @@
 </p>
 
 ## 🏅 LeetCode Badges
+
 <table>
   <!-- Row 1 -->
   <tr>
@@ -55,6 +56,7 @@
   </tr>
 
   <!-- Row 2 -->
+
   <tr>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80"/><br/>
@@ -91,6 +93,7 @@
   </tr>
 
   <!-- Row 3 -->
+
   <tr>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" width="80"/><br/>
@@ -125,7 +128,25 @@
       <b>July 2026 Challenge</b>
     </td>
   </tr>
+
+  <!-- Row 4 -->
+
+  <tr>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/badges/dcc-2026-8.png" width="80"/><br/>
+      <b>August 2026 Challenge</b>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
 </table>
+
+
 
 
 <p align="left">
