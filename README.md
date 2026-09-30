@@ -170,7 +170,10 @@
 <img src="https://leetcode.com/static/images/badges/dcc-2026-8.png" width="80"/><br/>
 <b>August 2026 Challenge</b>
 </td>
-<td></td>
+<td>
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-9.png" width="80"/><br/>
+  <b>September 2026 Challenge</b>
+</td>
 <td></td>
 <td></td>
 <td></td>
