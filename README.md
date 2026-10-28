@@ -76,6 +76,10 @@
 <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="80"/><br/>
 <b>200 Days 2026</b>
 </td>
+<td align="center">
+<img src="https://assets.leetcode.com/static_assets/others/2026.gif" width="80"/><br/>
+<b>300 Days 2026</b>
+</td>
 </tr>
 </table>
 
