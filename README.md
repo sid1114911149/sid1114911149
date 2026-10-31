@@ -178,11 +178,11 @@
 <b>July 2026</b>
 </td>
 <td align="center">
-<img src="https://leetcode.com/static/images/badges/dcc-2026-8.png" width="80"/><br/>
+<img src="https://assets.leetcode.com/static_assets/marketing/8.gif" width="80"/><br/>
 <b>August 2026</b>
 </td>
 <td align="center">
-<img src="https://leetcode.com/static/images/badges/dcc-2026-9.png" width="80"/><br/>
+<img src="https://assets.leetcode.com/static_assets/marketing/9.gif" width="80"/><br/>
 <b>September 2026</b>
 </td>
 <td align="center">
