@@ -185,6 +185,10 @@
 <img src="https://leetcode.com/static/images/badges/dcc-2026-9.png" width="80"/><br/>
 <b>September 2026</b>
 </td>
+<td align="center">
+<img src="https://assets.leetcode.com/static_assets/marketing/10.gif" width="80"/><br/>
+<b>October 2026</b>
+</td>
 </tr>
 </table>
 
